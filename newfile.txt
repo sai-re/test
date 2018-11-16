@@ -1,3 +1,5 @@
 Creating first commit on Master
 
 creating new commit on devBranch
+
+creating new commit on master
