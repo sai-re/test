@@ -7,5 +7,3 @@ creating new commit on master
 creating new commit on devBranch
 
 new feature branch created 
-
-create new commit to revert
